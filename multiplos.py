@@ -21,7 +21,7 @@ elif numero_1 % numero_2 == 0:
     #Salida
     print("El número", numero_1,"es múltiplo del", numero_2)
 
-if numero_2 == o:
+if numero_2 == 0:
     #Salida
     print("El número", numero_2,"es múltiplo del", numero_1)
 elif numero_2 % numero_1 == 0:
